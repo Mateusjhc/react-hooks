@@ -1,4 +1,5 @@
 import React from "react"
+import './NaoEncontrado.css'
 
 const NaoEncontrado = props => (
     <div>

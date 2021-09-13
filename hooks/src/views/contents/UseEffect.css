@@ -1,0 +1,41 @@
+.campo {
+    border-radius: 5px;
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+}
+
+.botao{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 7px;
+    background-color: #14273e;
+    border-width: 1px;
+    border-color: gray;
+    width: 80%;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+.mensage {
+    display: flex;
+    border-radius: 5px;
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin: 10px;
+    padding: 5px;
+    width: 80px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+#Aprovado {
+    background-color: blue;
+}
+
+#Reprovado {
+    background-color: tomato;
+}
